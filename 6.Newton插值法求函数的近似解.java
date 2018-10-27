@@ -60,7 +60,7 @@ public class NewtonInterpolation {
     public static void main(String[] args) throws FileNotFoundException {
 
         /*
-        * 测试用例(lagrange.in)格式
+        * 测试用例(Newton.in)格式
         * 给出从 x0 ... xn 个点
         * 给出其对应的 y0 ... yn
         * -------------------------
